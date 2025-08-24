@@ -92,6 +92,6 @@ export default defineConfig({
     headers: {
       'Access-Control-Allow-Origin': 'https://giscus.app',
     },
-    allowedHosts: ['blog.yumc.fun']
+    allowedHosts: ['blog.yumc.fun','test.yumc.fun']
   },
 })
